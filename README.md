@@ -27,7 +27,7 @@ TaxFácil é uma ferramenta em Excel que organiza e valida informações essenci
   
 ---
 
-## ⚙️ Funcionalidades Principais
+## 🛠️ Funcionalidades 
 - 📇 **Dados do Titular:** informações pessoais com checagens automáticas.
 - 🏦 **Rendimentos Bancários:** campos para cada banco, total consolidado, upload de comprovantes.
 - 🧾 **Notas/Extratos:** registro organizado de entradas por mês e categoria.
@@ -56,9 +56,9 @@ TaxFácil é uma ferramenta em Excel que organiza e valida informações essenci
 
 ![Captura de tela 2025-06-28 115353](https://github.com/user-attachments/assets/e0f16a78-8be3-4a6f-81ca-620b69eafdb2)
 
-![Captura de tela 2025-06-28 115418](https://github.com/user-attachments/assets/c1569f33-d63f-40c3-92bb-271ba1f60950)
-
 ![Captura de tela 2025-06-28 115404](https://github.com/user-attachments/assets/cac65b6d-1da9-4cbb-8e45-ca637edf596d)
+
+![Captura de tela 2025-06-28 115418](https://github.com/user-attachments/assets/c1569f33-d63f-40c3-92bb-271ba1f60950)
 
 ---
 
